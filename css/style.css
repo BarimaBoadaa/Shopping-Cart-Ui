@@ -1,0 +1,40 @@
+body {
+  margin-top: 2rem;
+}
+
+.sizes {
+  border: none;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  margin: 0.5rem;
+  font-size: 12px;
+}
+
+.cart-item {
+  position: relative;
+}
+
+.free-ship {
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.shop-items {
+  margin-bottom: 2rem;
+}
+
+#cart {
+  border: none;
+}
+
+#cart:hover {
+  border: 2px sandybrown dotted;
+}
+
+#btn:hover {
+  background-color: #ffc22b !important;
+}
